@@ -1,0 +1,51 @@
+div
+{
+
+    
+    
+   position: absolute;
+  
+
+}
+
+ #a1
+{
+    background-color: rgba(127, 141, 148, 0.842);
+   margin-left: 500px;
+   margin-right: 200px;
+   margin-top: 70px;
+  width: 250px;
+  height: 750px;
+
+}
+#a2
+{
+    background-color: rgba(109, 100, 112, 0.39);
+   margin-left: 1250px;
+   margin-right: 500px;
+   margin-top: 70px;
+  width: 250px;
+  height: 750px;
+
+}
+#a3
+{
+    background-color: rgba(134, 130, 132, 0.39);
+   margin-left: 500px;
+   margin-right: 500px;
+   margin-top: 820px;
+  width: 1000px;
+  height: 70px;
+
+}
+#b1
+{
+    text-align: center;
+
+  background-color: rgba(86, 92, 92, 0.5);
+   margin-left: 500px;
+   margin-right: 500px;
+  width: 1000px;
+  height: 70px;
+  
+}
